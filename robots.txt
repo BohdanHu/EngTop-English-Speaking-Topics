@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bohdanhu.github.io/EngTop-English-Speaking-Topics/sitemap.xml
+
